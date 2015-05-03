@@ -1,0 +1,14 @@
+{
+    "ircdhost": [
+        "127.0.0.1"
+    ], 
+    "ircdleafnick": "topaz", 
+    "ircdname": "IRCPyd", 
+    "ircdport": [
+        "6667"
+    ], 
+    "sqlakey": "", 
+    "sqlhost": "localhost", 
+    "sqlname": "services", 
+    "sqlport": "28015"
+}
